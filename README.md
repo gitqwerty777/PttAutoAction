@@ -7,29 +7,29 @@ computer network project: do actions in ptt
 
 ``` bash
 make
-./client < input.txt # should be UTF-8 file
+./client # will read input.txt in the same directory, it should be a UTF-8 file
 ```
 
 ## commands
 
 Login  
-- <ID>pttid</ID>
-- <PASS>password</PASS>
+- `<ID>pttid</ID>`
+- `<PASS>password</PASS>`
 
 Logout  
-- <EXIT>
+- `<EXIT>`
 
 board  
-- <BOARD>Test</BOARD>
+- `<BOARD>Test</BOARD>`
 - post with title and content
-  - <P>title</P>
-  - <CONTENT>This is a testing.</CONTENT>
+  - `<P>title</P>`
+  - `<CONTENT>This is a testing.</CONTENT>`
 
 Message(waterball)  
-- <W>userID</W> 
-- <CONTENT>content</CONTENT>
+- `<W>userID</W>`
+- `<CONTENT>content</CONTENT>`
 
 Mail  
-- <M>userID</M>
-- <TITLE>title</TITLE>
-- <CONTENT>content</CONTENT>
+- `<M>userID</M>`
+- `<TITLE>title</TITLE>`
+- `<CONTENT>content</CONTENT>`

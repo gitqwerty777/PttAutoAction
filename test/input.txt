@@ -1,0 +1,12 @@
+<ID>mypttid</ID>
+<PASS>mypassword</PASS>
+<BOARD>test</BOARD>
+<P>title</P>
+<CONTENT>第一行
+第二行</CONTENT>
+<W>weareworld</W>
+<CONTENT>Hello World!</CONTENT>
+<M>weareworld</M>
+<TITLE>title</TITLE>
+<CONTENT>Hello World!</CONTENT>
+<EXIT>
